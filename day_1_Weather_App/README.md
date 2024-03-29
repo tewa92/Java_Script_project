@@ -19,6 +19,4 @@ This is a simple weather application that allows users to check the weather for 
 
 - [OpenWeatherMap API](https://openweathermap.org/api): This application utilizes the OpenWeatherMap API to fetch weather data based on the user's input.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+You need to use your own API.
